@@ -1,7 +1,6 @@
 ### Hi there 👋, I am João Tupinambá
 - 🌱 I’m currently learning Javascript, HTML and CSS
 - 📫 Contact to me on e-mail: joaoh.tupinamba@gmail.com
-- 😄 Pronouns: He/His
 - ☕ Fun fact: I can't live without coffee
 
 <div align ="center">
