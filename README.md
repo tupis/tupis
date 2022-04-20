@@ -1,4 +1,4 @@
-Hi there 👋, I am João Tupinambá
+   Hi there 👋, I am João Tupinambá</h1>
 - 🌱 I’m currently learning Nodejs
 - 📫 Contact to me on e-mail: joaoh.tupinamba@gmail.com
 - ☕ Fun fact: I can't live without coffee
@@ -29,8 +29,8 @@ Hi there 👋, I am João Tupinambá
   <div>
     <h2>Minhas redes socias:</h2>
     <div style="display: inline_block">
-  <a href="https://instagram.com/jh.tupinamba" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:joaoh.tupinamba@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joaotupinamba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+      <a href="https://www.linkedin.com/in/joaotupinamba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+      <a href="https://instagram.com/jh.tupinamba" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+      <a href = "mailto:joaoh.tupinamba@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>    
 </div>
