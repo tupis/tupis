@@ -1,6 +1,8 @@
    <h1>Hi there 👋, I am João Tupinambá</h1>
-- 🌱 I’m currently learning Nodejs <br><br>
-- 📫 Contact to me on e-mail: joaoh.tupinamba@gmail.com <br><br>
+- 🌱 I’m currently learning Nodejs 
+<br><br>
+- 📫 Contact to me on e-mail: joaoh.tupinamba@gmail.com 
+<br><br>
 - ☕ Fun fact: I can't live without coffee
 <br><br>
 
