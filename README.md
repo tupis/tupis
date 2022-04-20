@@ -1,8 +1,12 @@
-### Hi there 👋, I am João Tupinambá
+<h1>### Hi there 👋, I am João Tupinambá</h1>
 - 🌱 I’m currently learning Nodejs
 - 📫 Contact to me on e-mail: joaoh.tupinamba@gmail.com
 - ☕ Fun fact: I can't live without coffee
 
+
+
+⚙️ GitHub Analytics
+<hr>
 <div align ="center">
   <a href="https://github.com/tupis">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tupis&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -19,6 +23,8 @@
 
   ##
   
+ Tecnologias que eu domino
+  <hr>
   <div> 
   <a href="https://instagram.com/jh.tupinamba" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:joaoh.tupinamba@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
