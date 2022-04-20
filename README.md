@@ -1,5 +1,5 @@
 ### Hi there 👋, I am João Tupinambá
-- 🌱 I’m currently learning Javascript and PHP
+- 🌱 I’m currently learning Nodejs
 - 📫 Contact to me on e-mail: joaoh.tupinamba@gmail.com
 - ☕ Fun fact: I can't live without coffee
 
