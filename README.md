@@ -24,6 +24,7 @@
       <img align="center" alt="Tupis-Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
       <img align="center" alt="Tupis-React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
       <img align="center" alt="Tupis-Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+     <img align="center" alt="Tupis-Sass" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
     </div>
   </div>
   <br>
