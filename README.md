@@ -17,7 +17,7 @@
   <br>
   
 <div> 
-  <h2>Tecnologias que eu domino:</h2>
+  <h2>Habilidades nessas tecnologias:</h2>
   <div style="display: inline_block">
       <img align="center" alt="Tupis-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=F7DF1E">
       <img align="center" alt="Tupis-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=F7DF1E">
