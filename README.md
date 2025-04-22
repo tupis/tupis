@@ -3,8 +3,7 @@
 
 #### Me chamo João Tupinambá, mas pode me chamar de "Tupi".
 
-* Sou desenvolvedor Full Stack, estou em busca da minha primeira oportunidade
-* Atualmente estou estudando Typescript
+* Sou desenvolvedor Full Stack
 * Acesse meu portfólio pessoal: [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://tupi.dev)
 
 ## 📞 Contato
